@@ -7,7 +7,7 @@ This repository will contain my ongoing work in the Winton Stock Market Challeng
 
 
 <img src="http://i.imgur.com/fXqkKwf.png" />
-<i>The result of my deep neural network approach to the problem, using a 4 layer highway network.</i>
+<i>The result of my deep neural network approach to the problem, using <a href="https://github.com/KhaledSharif/winton-stock-market/blob/master/highway-network.py">a 4 layer highway network</a>.</i>
 
 
 <img src="http://i.imgur.com/icKtNEm.png" />
